@@ -1,5 +1,5 @@
 Hidden Profits Privacy Policy
 
-The Hidden Profits app does not share any data, and the only user-specific information that it will store to a device are the user's highscores.
+The Hidden Profits app does not share any data, and the only user-specific information that it will store to a device are the user's highscores and sound settings.
 
 Updated 1/30/2019
