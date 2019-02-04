@@ -1,1 +1,5 @@
+Sonancer Privacy Policy
 
+The Sonancer app does not share any data, and the only user-specific information that it will store to a device are the user's saved layouts and full version status.
+
+Updated 2/3/2019
